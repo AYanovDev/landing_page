@@ -1,1 +1,2 @@
 # landing_page
+That is a second project I do for TOP. This one is supposed to be a landing page, which honestly doesn't tell me much yet. I've learned Flexbox quite a bit so far and will use it for real for the first time today. Wish me luck, I guess
