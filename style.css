@@ -1,0 +1,78 @@
+body {
+    display: flex;
+    flex-flow: column;
+    margin: 0;
+}
+
+header, .section-1, .section-2 {
+    padding: 0 280px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between; 
+}
+
+header, .section-1 {
+    background-color: #1f2937;
+    color: white;
+}
+
+.head-logo {
+    font-weight: 900;
+    font-size: 30px;
+    margin: 0;
+    display: flex;
+    align-self: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.head-logo p {
+    margin: 0;
+}
+
+.text-1 {
+    display: flex;
+    flex-flow: column;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.text-1 p {
+    
+}
+
+.text-1 button {
+    width: 105px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #3882f6;
+    border-color: #3882f6;
+    color: white;
+    border-radius: 8px;
+    border-style: none;
+}
+
+.section-1 {
+    display: flex;
+    padding: 80px 280px;
+    height: auto;
+    gap: 64px;
+}
+
+.image-1 {
+    min-width: 500px;
+    min-height: 200px;
+    background-color: lightgray;
+}
